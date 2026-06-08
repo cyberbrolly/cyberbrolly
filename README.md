@@ -26,15 +26,15 @@
 ```bash
 $ cat about.txt
 
-Name    : Adeola Alao
+Name    : Brolly the dev
 Handle  : cyberbrolly
 Role    : Full-Stack Developer · Open Source
-Location: Lagos, Nigeria 🇳🇬
+Location:  🇳🇬
 Focus   : Backend Systems · Dev Tooling · Real-Time Data
 Status  : [████████░░] Building in public
 ```
 
-CS undergrad @ **LAUTECH** (2026) · Marketing & Social Lead @ **[EventInbox](https://github.com/eventinbox)** — an open-source webhook delivery infrastructure pushing real-time events to developers everywhere.
+Fullstack dev · Open source · 🇳🇬 · CS '26 · Marketing & Social Lead @ **[EventInbox](https://github.com/eventinbox)** — an open-source webhook delivery infrastructure pushing real-time events to developers everywhere.
 
 ---
 
