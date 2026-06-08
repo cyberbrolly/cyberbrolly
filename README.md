@@ -1,4 +1,6 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=cyberbrolly;Full-Stack+Dev;Building+in+public+%F0%9F%9A%80" alt="cyberbrolly" />
+</h1>
 
 ```
  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██████╗  ██████╗ ██╗     ██╗  ██╗   ██╗
