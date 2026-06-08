@@ -97,19 +97,6 @@ Open-source webhook delivery infrastructure. Reliable, scalable, dev-first.
 
 ---
 
-## `> stats --global`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cyberbrolly&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5D4&icon_color=FF2D78&text_color=B57BFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbrolly&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5D4&text_color=B57BFF" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=cyberbrolly&theme=radical&hide_border=true&background=0D0D0D&ring=00F5D4&fire=FF2D78&currStreakLabel=B57BFF)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## `> ping me`
