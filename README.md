@@ -24,7 +24,7 @@
 ## `> whoami`
 
 ```bash
-$ cat about.txt
+
 
 Name    : Brolly the dev
 Handle  : cyberbrolly
