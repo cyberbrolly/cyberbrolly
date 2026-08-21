@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cyberbrolly.rf.gd-00F5D4?style=for-the-badge&logo=firefox&logoColor=white)](https://cyberbrolly-os.onrender.com)
+[![Portfolio](https://img.shields.io/badge/cyberbrolly-os.onrender.com-00F5D4?style=for-the-badge&logo=firefox&logoColor=white)](https://cyberbrolly-os.onrender.com)
 [![X](https://img.shields.io/badge/X-@cyberbrolly-FF2D78?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cyberbrolly)
 [![GitHub](https://img.shields.io/badge/GitHub-cyberbrolly-B57BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyberbrolly)
 
