@@ -46,7 +46,7 @@ Fullstack dev · Open source · 🇳🇬 · CS '26 · Marketing & Social Lead @ 
 <tr>
 <td width="50%">
 
-### ⚡ [NeuralDash](https://github.com/cyberbrolly/neuraldash)
+### ⚡ [NeuralDash](https://github.com/cyberbrolly/neural-dash)
 Real-time social media monitoring dashboard for developers. Tracks activity across **9 developer platforms** — all in one place.
 
 `Python` `Flask` `WebSockets` `CSS`
@@ -54,15 +54,6 @@ Real-time social media monitoring dashboard for developers. Tracks activity acro
 </td>
 <td width="50%">
 
-### 🔗 [Vaultchain](https://github.com/cyberbrolly/vaultchain)
-Blockchain-inspired storage system built for security and transparency.
-
-`Python` `Cryptography` `Data Structures`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 💬 [Threadline](https://github.com/cyberbrolly/threadline)
 A clean, threaded conversation UI — think structured discussions, done right.
