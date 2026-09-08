@@ -78,7 +78,7 @@ Open-source webhook delivery infrastructure. Reliable, scalable, dev-first.
 
 ```json
 {
-  "languages"  : ["Python", "TypeScript", "JavaScript", "Kotlin", "PHP", "SQL"],
+  "languages"  : ["Python", "TypeScript", "JavaScript", "Kotlin", "PHP", "SQL","Rust"],
   "frontend"   : ["React", "HTML5", "CSS3", "React Router" , "typescript"],
   "backend"    : ["Flask", "Node.js", "REST APIs", "WebSockets"],
   "databases"  : ["MySQL", "SQLite"],
